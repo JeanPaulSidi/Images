@@ -12,6 +12,7 @@ namespace Images
 {
     public partial class Form1 : Form
     {
+        Card card1 = new Card(10, Properties.Resources.jack_of_spades);
         public Form1()
         {
             InitializeComponent();
@@ -19,11 +20,15 @@ namespace Images
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Image img = Properties.Resources.ace_of_hearts;
-            pictureBox1.Image = img;
-            
-            
+            pictureBox1.Image = card1.img;
 
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }
