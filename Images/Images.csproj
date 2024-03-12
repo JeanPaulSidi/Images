@@ -81,160 +81,163 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\2_of_clubs.png" />
+    <None Include="Properties\Cards\2_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\2_of_diamonds.png" />
+    <None Include="Properties\Cards\2_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\2_of_hearts.png" />
+    <None Include="Properties\Cards\2_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\2_of_spades.png" />
+    <None Include="Properties\Cards\2_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\3_of_clubs.png" />
+    <None Include="Properties\Cards\3_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\3_of_diamonds.png" />
+    <None Include="Properties\Cards\3_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\3_of_hearts.png" />
+    <None Include="Properties\Cards\3_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\3_of_spades.png" />
+    <None Include="Properties\Cards\3_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\4_of_clubs.png" />
+    <None Include="Properties\Cards\4_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\4_of_diamonds.png" />
+    <None Include="Properties\Cards\4_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\4_of_hearts.png" />
+    <None Include="Properties\Cards\4_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\4_of_spades.png" />
+    <None Include="Properties\Cards\4_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\5_of_clubs.png" />
+    <None Include="Properties\Cards\5_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\5_of_diamonds.png" />
+    <None Include="Properties\Cards\5_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\5_of_hearts.png" />
+    <None Include="Properties\Cards\5_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\5_of_spades.png" />
+    <None Include="Properties\Cards\5_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\6_of_clubs.png" />
+    <None Include="Properties\Cards\6_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\6_of_diamonds.png" />
+    <None Include="Properties\Cards\6_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\6_of_hearts.png" />
+    <None Include="Properties\Cards\6_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\6_of_spades.png" />
+    <None Include="Properties\Cards\6_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\7_of_clubs.png" />
+    <None Include="Properties\Cards\7_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\7_of_diamonds.png" />
+    <None Include="Properties\Cards\7_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\7_of_hearts.png" />
+    <None Include="Properties\Cards\7_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\7_of_spades.png" />
+    <None Include="Properties\Cards\7_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\8_of_clubs.png" />
+    <None Include="Properties\Cards\8_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\8_of_diamonds.png" />
+    <None Include="Properties\Cards\8_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\8_of_hearts.png" />
+    <None Include="Properties\Cards\8_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\8_of_spades.png" />
+    <None Include="Properties\Cards\8_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\9_of_clubs.png" />
+    <None Include="Properties\Cards\9_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\9_of_diamonds.png" />
+    <None Include="Properties\Cards\9_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\9_of_hearts.png" />
+    <None Include="Properties\Cards\9_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\9_of_spades.png" />
+    <None Include="Properties\Cards\9_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\10_of_clubs.png" />
+    <None Include="Properties\Cards\10_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\10_of_diamonds.png" />
+    <None Include="Properties\Cards\10_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\10_of_hearts.png" />
+    <None Include="Properties\Cards\10_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\10_of_spades.png" />
+    <None Include="Properties\Cards\10_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\ace_of_clubs.png" />
+    <None Include="Properties\Cards\ace_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\ace_of_diamonds.png" />
+    <None Include="Properties\Cards\ace_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\ace_of_hearts.png" />
+    <None Include="Properties\Cards\ace_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\ace_of_spades.png" />
+    <None Include="Properties\Cards\ace_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\jack_of_clubs.png" />
+    <None Include="Properties\Cards\jack_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\jack_of_diamonds.png" />
+    <None Include="Properties\Cards\jack_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\jack_of_hearts.png" />
+    <None Include="Properties\Cards\jack_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\jack_of_spades.png" />
+    <None Include="Properties\Cards\jack_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\king_of_clubs.png" />
+    <None Include="Properties\Cards\king_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\king_of_diamonds.png" />
+    <None Include="Properties\Cards\king_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\king_of_hearts.png" />
+    <None Include="Properties\Cards\king_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\king_of_spades.png" />
+    <None Include="Properties\Cards\king_of_spades.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\queen_of_clubs.png" />
+    <None Include="Properties\Cards\queen_of_clubs.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\queen_of_diamonds.png" />
+    <None Include="Properties\Cards\queen_of_diamonds.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\queen_of_hearts.png" />
+    <None Include="Properties\Cards\queen_of_hearts.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Cards\queen_of_spades.png" />
+    <None Include="Properties\Cards\queen_of_spades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

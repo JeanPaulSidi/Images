@@ -22,6 +22,8 @@ namespace Images
             Image img = Properties.Resources.ace_of_hearts;
             pictureBox1.Image = img;
             
+            
+
         }
     }
 }
